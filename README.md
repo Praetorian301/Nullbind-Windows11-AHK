@@ -49,6 +49,16 @@ XButton2::Return
 You can add or remove lines as needed to match your device layout or preferences.
 
 ---
+## 📂 **Folder Layout**
+
+```
+Nullbind-Windows11-AHK/
+│
+├── nullbind.ahk
+└── README.md
+```
+
+---
 
 ## 🧠 **Customization**
 
@@ -73,17 +83,6 @@ You can map any key combination supported by AutoHotKey (e.g., `Ctrl + Q`, `Alt 
 * Works globally across all Windows apps.
 * Uses negligible CPU and memory.
 * Start minimized or add to your Windows Startup folder for persistent use.
-
----
-
-## 📂 **Folder Layout**
-
-```
-Nullbind-Windows11-AHK/
-│
-├── nullbind.ahk
-└── README.md
-```
 
 ---
 
