@@ -1,6 +1,6 @@
 ---
 
-# **Nullbind / Snaptap Windows11 AutoHotKey**
+# **Nullbind Snaptap Windows11 AutoHotKey**
 
 A **universal null-bind script** for **Windows 11** built with **AutoHotKey (AHK)**.
 Designed for gamers, power users, and productivity setups that need a safe “do-nothing” hotkey or a way to intercept inputs without triggering default Windows or in-game actions.
